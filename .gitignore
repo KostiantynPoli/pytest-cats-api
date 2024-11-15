@@ -1,0 +1,20 @@
+.idea/
+.pytest_cache/*
+.pytest_cache
+__pycache__/
+*/__pycache__/
+reports/
+Pipfile.lock
+.DS_Store/
+.DS_Store
+
+.env
+.env.prod
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+*.py[cod]
+*$py.class
